@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:rgb(212, 31, 91);;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font: weight 700px; ;
+}
+#h1second{
+    color: rgb(212, 31, 91);
+    font-size: 70px;
+    padding: 0;
+    margin: 0;
+}
+.div01{
+    width: 40%;
+    float: left;
+    padding-top: 200px;
+    padding-left: 160px;
+}
+.div02{
+    width: 40%;
+    float: right;
+    padding-right: 100px;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.image01{
+    width: 120%;
+}
+section{
+    height: 600px;
+    overflow: hidden;
+}
+.div001{
+    width: 40%;
+    float: right;
+    padding-right: 100px;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.div002{
+    width: 40%;
+    float: left;
+    padding-top: 200px;
+    padding-left: 160px; 
+}
+.image02{
+    width: 120%;
+}
+
+
+.image0001{
+    float: left;
+    width: 30%;
+}
+.image0002{
+    width: 30%;
+    float: none;
+    padding-left: 70px;
+}
+.image0003{
+    width: 30%;
+    float: right;
+}
+br{
+    overflow: hidden;
+}
+#lasthedding{
+    padding-left: 550px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+#lstheding{
+    font-size: 40px;
+
+
+}
+#lstheding02{
+    padding-top: 40px;
+    font-size: 20px;
+}
+#lstpgeheding{
+    text-align: center;
+}
+.lstprgrphceo{
+    font-size: 15px;
+color: #a28686;
+}
+.tlstprgrph{
+    text-align: center;
+    color: whitesmoke;
+}
+#tlstheding{
+    text-align: center;
+    color: whitesmoke;
+}
+.mylastdiv{
+    border: 7px solid;
+    border-image: linear-gradient(rgb(207, 109, 16), rgb(167, 194, 11));
+    border-image-slice: 1;
+    background-color:orangered;
+    margin-top: 90px;
+    width: 50%;
+    margin-left: 300px;
+}
